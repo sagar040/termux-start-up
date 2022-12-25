@@ -21,4 +21,6 @@ chmod +x termux-start-up.sh
 ```
 
 ## Note
-***New versions of Tarmux are available, download from*** <a href="https://f-droid.org/en/packages/com.termux/">![download termux](https://f-droid.org/assets/fdroid-logo-text_S0MUfk_FsnAYL7n2MQye-34IoSNm6QM6xYjDnMqkufo=.svg)</a>
+***New versions of Termux are available, download from***
+
+<a href="https://f-droid.org/en/packages/com.termux/">![download termux](https://f-droid.org/assets/fdroid-logo-text_S0MUfk_FsnAYL7n2MQye-34IoSNm6QM6xYjDnMqkufo=.svg)</a>
