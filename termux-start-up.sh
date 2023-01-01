@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/sh
 
-source_url="https://raw.githubusercontent.com/sagar040/termux-start-up/main/source.txt";
+source_url="https://sagar040.github.io/resources/termux-start-up/resource";
 keyring_url=$(curl -s -L $source_url | grep 'termux-keyring' | cut -d ' ' -f2);
 main_repo=$(curl -s -L $source_url | grep 'main-repo' | cut -d ' ' -f2);
 version=$(curl -s -L $source_url | grep 'version' | cut -d ' ' -f2);
