@@ -1,3 +1,0 @@
-version 1.0
-main-repo https://grimler.se/termux/termux-main
-termux-keyring https://grimler.se/termux-packages-24/pool/main/t/termux-keyring/termux-keyring_3.10_all.deb
